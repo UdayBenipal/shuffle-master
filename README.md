@@ -1,0 +1,1 @@
+Music application for android, while shuffling the saved playlist, playback count, average playing duration, genre and artist are taken into consideration such that the very next song in the queue after shuffle is the song which user would like to listen
